@@ -12,7 +12,7 @@ I love solving real-world problems, building intuitive UIs, and writing clean, s
 
 - 🎓 Pursuing **B.Tech in Computer Science**
 - 🔐 Exploring **cybersecurity** and **ethical hacking**
-- 🛠️ Building **dashboards, tools, and platforms** with real use cases
+- 🛠️ Building **full-stack applications** with real use cases
 - 🧠 Comfortable working across the **entire stack**
 - ☕ Fun Fact: I’m powered by **caffeine and curiosity**
 
