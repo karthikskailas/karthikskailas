@@ -2,8 +2,8 @@
 
 <p align="center">
 
-I’m a passionate full-stack developer with a strong interest in **web development**, **cybersecurity**, and **Artificial intelligence**. I love solving real-world problems, building intuitive UIs, and writing clean, scalable code. I believe learning is best done by building — and that's exactly what I do. <br />
-<b>Learning by building</b> — that's my mantra.
+I’m a passionate full-stack developer with a strong interest in **web development**, **cybersecurity**, and **Artificial intelligence**. I love solving real-world problems, building intuitive UIs, and writing clean, scalable code.** I believe learning is best done by building** — and that's exactly **what I do**. <br />
+
 </p>
 
 ---
