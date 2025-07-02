@@ -1,8 +1,8 @@
 <h1 align="center">👋 Hey there, I’m Karthik!</h1>
 
 <p align="center">
-I’m a passionate <strong>full-stack developer</strong> with deep interests in <strong>web development</strong>, <strong>cybersecurity</strong>, and <strong>ethical hacking</strong>.<br />
-I love solving real-world problems, building intuitive UIs, and writing clean, scalable code. <br />
+
+I’m a passionate full-stack developer with a strong interest in **web development**, **cybersecurity**, and **Artificial intelligence**. I love solving real-world problems, building intuitive UIs, and writing clean, scalable code. I believe learning is best done by building — and that's exactly what I do. <br />
 <b>Learning by building</b> — that's my mantra.
 </p>
 
