@@ -8,7 +8,7 @@ I’m a passionate full-stack developer with a strong interest in **web developm
 
 ---
 
-## 💡 About Me
+<h2>💡 About Me </h2>
 
 - 🎓 Pursuing **B.Tech in Computer Science**
 - 🔐 Exploring **cybersecurity** and **ethical hacking**
@@ -18,7 +18,7 @@ I’m a passionate full-stack developer with a strong interest in **web developm
 
 ---
 
-## 🧰 Tech Stack
+<h2>🧰 Tech Stack</h2>
 
 ### 🖥️ Languages & Frameworks
 <p>
