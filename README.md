@@ -1,67 +1,62 @@
-<h1 align="center">👋 Hey there, I’m Karthik!</h1>
+# Hey, I'm Karthik 👋
 
-<p>
+Full-Stack Developer | Cybersecurity | AI Enthusiast
 
-I’m a passionate full-stack developer with a strong interest in **web development**, **cybersecurity**, and **Artificial intelligence**. I love solving real-world problems, building intuitive UIs, and writing clean, scalable code. **I believe learning is best done by building** — and that's exactly **what I do**. <br />
+```javascript
+const karthik_s_kailas = {
+  identity: {
+    name: "Karthik S Kailas",
+    location: "Kerala, India",
+    role: "Backend Engineer",
+    education: "B.Tech Computer Science"
+  },
 
-</p>
+  expertise: {
+    frontend: ["React", "JavaScript", "Responsive Design"],
+    backend: ["Node.js", "Express", "Laravel", "Django"],
+    languages: ["JavaScript", "Python", "PHP"],
+    databases: ["MongoDB", "MySQL"],
+    tools: ["Git", "Vite", "Supabase", "WordPress", "Shopify"]
+  },
 
+  interests: [
+    "Building scalable web applications",
+    "Ethical hacking & cybersecurity",
+    "AI/ML integration in real-world apps"
+  ],
+
+  currentFocus: "Full-stack development • Security-first architecture • Clean code practices",
+
+  learningPath: "Exploring AI integration • Advanced security techniques • System design",
+
+  approach: "Learn by building. Ship fast, iterate faster.",
+
+  projects: {
+    type: "Real-world applications",
+    focus: "Solving actual problems, not tutorial clones",
+    style: "Clean architecture • Scalable • Maintainable"
+  },
+
+  availability: "Open for collaborations • Freelance • Interesting challenges",
+
+  contact: {
+    email: "karthikskailas@gmail.com",
+    linkedin: "linkedin.com/in/karthik-s-kailas",
+    github: "github.com/karthikskailas"
+  },
+
+  motto: "Code with purpose. Build with impact.",
+
+  getCoffeeLevel: () => "Always ☕",
+
+  getStatus() {
+    return `Currently ${this.currentFocus} → Reach out: ${this.contact.email}`;
+  }
+};
+
+console.log(karthik.getStatus());
+// Currently Full-stack development • Security-first architecture • Clean code practices → Reach out: your.email@example.com
+```
 ---
 
-<h2>💡 About Me </h2>
-
-- 🎓 Pursuing **B.Tech in Computer Science**
-- 🔐 Exploring **cybersecurity** and **ethical hacking**
-- 🛠️ Building **full-stack applications** with real use cases
-- 🧠 Comfortable working across the **entire stack**
-- ☕ Fun Fact: I’m powered by **caffeine and curiosity**
-
----
-
-<h2>🧰 Tech Stack</h2>
-
-### 🖥️ Languages & Frameworks
-<p>
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000" />
-  <img src="https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/-React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-</p>
-
-### 🗄️ Databases
-<p>
-  <img src="https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/-MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
-</p>
-
-### 🛠️ Tools & Platforms
-<p>
-  <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Shopify-96BF48?style=for-the-badge&logo=shopify&logoColor=white" />
-  <img src="https://img.shields.io/badge/-WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
-</p>
-
----
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=karthikskailas&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=karthikskailas&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=karthikskailas&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
-## 🌐 Connect With Me
-
-<p>
-  <a href="https://www.linkedin.com/">
-    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
-
----
-
-> _“Code is like humor. When you have to explain it, it’s bad.” – Cory House_
+<sub>💬 Let's build something great together</sub>
