@@ -25,7 +25,7 @@ const karthik_s_kailas = {
     "AI/ML integration in real-world apps"
   ],
 
-  currentFocus: "Full-stack development • Security-first architecture • Clean code practices",
+  currentFocus: "Backend Development • Security-first architecture • Clean code practices",
 
   learningPath: "Exploring AI integration • Advanced security techniques • System design",
 
