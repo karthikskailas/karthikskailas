@@ -1,6 +1,6 @@
 # Hey, I'm Karthik 👋
 
-Full-Stack Developer | Cybersecurity | AI Enthusiast
+Backend Engineer | Cybersecurity | AI Enthusiast
 
 ```javascript
 const karthik_s_kailas = {
