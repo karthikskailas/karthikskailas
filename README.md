@@ -55,7 +55,7 @@ const karthik_s_kailas = {
 };
 
 console.log(karthik.getStatus());
-// Currently Full-stack development • Security-first architecture • Clean code practices → Reach out: your.email@example.com
+// Currently Full-stack development • Security-first architecture • Clean code practices → Reach out: karthikskailas@gmail.com
 ```
 ---
 
