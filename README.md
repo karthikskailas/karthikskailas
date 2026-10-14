@@ -1,3 +1,8 @@
+# Hey, I'm Karthik 👋
+
+Product Builder | AI Enthusiast | Cyber Security Enthusiast
+
+```javascript
 const karthik_s_kailas = {
   identity: {
     name: "Karthik S Kailas",
@@ -52,3 +57,7 @@ const karthik_s_kailas = {
 
 console.log(karthik_s_kailas.getStatus());
 // Currently Product Building • User-first thinking • Data-informed decisions → Reach out: karthikskailas@gmail.com
+```
+---
+
+<sub>💬 Let's build something great together</sub>
